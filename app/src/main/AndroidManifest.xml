@@ -13,7 +13,7 @@
             android:value="2.2" />
 
         <activity
-            android:name=".MainActivity"
+            android:name=".LibraryActivity"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
